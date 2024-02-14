@@ -1,2 +1,2 @@
 # python-hello
-Despligue de app sencill ade python para aws apprunner
+Despligue de app sencilla de python para aws apprunner.
